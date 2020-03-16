@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oemooghoh.datasciencemasters.org/sitemap.xml
